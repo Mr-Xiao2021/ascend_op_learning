@@ -1,0 +1,13 @@
+# 忽略所有目录（任意层级）
+**/cceprint/
+**/build/
+**/npuchk/
+**/out/
+**/output/
+
+# 忽略特定文件（任意层级）
+**/stub_reg.log
+**/ascendc_kernels_bbit
+
+# 如果这些也可能是文件或目录（无后缀时），可以额外补充：
+**/ascendc_kernels_bbit/
